@@ -1,4 +1,4 @@
-module gorm.io/gorm
+module https://github.com/smanne/gorm
 
 go 1.14
 
